@@ -1,12 +1,13 @@
 body{
 text-align: center;
-    background: linear-gradient(aqua,white);
+    background-color: deepskyblue;
 }
 
 .link{
-    float: left;
-    list-style: none;
+ float: right;
+ list-style: none;
     top: 10px;
     right: 30px;
-    position: fixed;
+    background-color: white;
 }
+
